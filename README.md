@@ -1,6 +1,3 @@
-# home_workout
-insights from personal workout data
-
 ### Table of Contents
 
 1. [Installation](#installation)

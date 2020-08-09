@@ -29,4 +29,4 @@ There is one notebook available here to showcase work related to the above quest
 The main findings of the code can be found at the post available [here](https://medium.com/p/5d45e7b2718a/edit).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Barry's Bootcamp family for the fitness journey. Big thanks to many instructors for the friendship and support. For anyone interested to analyze your workout data, feel free to use the code here as you would like!
+Must give credit to Barry's Bootcamp family for the fitness journey. Big thanks to so many instructors for the friendship and support. For anyone interested to analyze your workout data, feel free to use the code here as you would like!

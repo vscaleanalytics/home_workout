@@ -18,7 +18,7 @@ For this project, I was interestested in using personal workout data to better u
 2. Which type of workout is more effective, weights, bands, or body weight?
 3. Does full-body workout burn more calories compared with body part focused workout?
 
-The full set of data file related to this project has personal data, so it is not publicly available here.  However, you can see pieces of the data and whole analysis here.  
+The full set of heart rate image related to this project has personal data, so only two examples are available here.
 
 ## File Descriptions <a name="files"></a>
 

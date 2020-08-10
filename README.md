@@ -15,7 +15,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interestested in using personal workout data to better understand:
 
 1. How heart rate correlates with calories burn?
-2. Which type of workout is more effective, weights, bands, or body weight?
+2. Which workout equipment is more effective, weights, bands, or body weight?
 3. Does full-body workout burn more calories compared with body part focused workout?
 
 The full set of heart rate image related to this project has personal data, so only two examples are available here.

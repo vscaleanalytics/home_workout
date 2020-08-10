@@ -24,6 +24,8 @@ The full set of heart rate image related to this project has personal data, so o
 
 There is one notebook available here to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions in project motivation.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
+The data folder contains main data file home_workout.xlsx and two png images for examples of heart rate profile during workouts.
+
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/p/5d45e7b2718a/edit).

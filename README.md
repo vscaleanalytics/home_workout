@@ -28,7 +28,7 @@ The data folder contains main data file home_workout.xlsx and two png images for
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/p/5d45e7b2718a/edit).
+The main findings of the code can be found at the post available [here](https://medium.com/@yang_cong/this-data-will-make-you-rethink-home-workout-5d45e7b2718a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Barry's Bootcamp family for the fitness journey. Big thanks to so many instructors for the friendship and support. For anyone interested to analyze your workout data, feel free to use the code here as you would like!
